@@ -1,1 +1,1 @@
-This is my RPA Rpositry for RPA Lab exercises , where i have uploaded eevery workflows in the Lab manual
+This is my RPA Repositry for RPA Lab exercises , where i have uploaded complete workflows for the exercises in the Lab manual.
